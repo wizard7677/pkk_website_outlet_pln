@@ -1,5 +1,6 @@
 <?php
 
-echo 'halaman index';
+echo 'halaman utama';
+echo 'Cikal';
 
 ?>
